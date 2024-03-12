@@ -1,0 +1,66 @@
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\appsettings.json
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\APIFilme - Aprendendo.staticwebassets.runtime.json
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\APIFilme - Aprendendo.exe
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\APIFilme - Aprendendo.deps.json
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\APIFilme - Aprendendo.runtimeconfig.json
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\APIFilme - Aprendendo.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\APIFilme - Aprendendo.pdb
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\APIFilme - Aprendendo.csproj.AssemblyReference.cache
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\APIFilme - Aprendendo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\APIFilme - Aprendendo.AssemblyInfoInputs.cache
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\APIFilme - Aprendendo.AssemblyInfo.cs
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\APIFilme - Aprendendo.csproj.CoreCompileInputs.cache
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\APIFilme - Aprendendo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\APIFilme - Aprendendo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\APIFilme - Aprendendo.RazorAssemblyInfo.cache
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\APIFilme - Aprendendo.RazorAssemblyInfo.cs
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\scopedcss\bundle\APIFilme - Aprendendo.styles.css
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\scopedcss\projectbundle\APIFilme - Aprendendo.bundle.scp.css
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\APIFilme - Aprendendo.csproj.CopyComplete
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\APIFilme - Aprendendo.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\refint\APIFilme - Aprendendo.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\APIFilme - Aprendendo.pdb
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\APIFilme - Aprendendo.genruntimeconfig.cache
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\ref\APIFilme - Aprendendo.dll
