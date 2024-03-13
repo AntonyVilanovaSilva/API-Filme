@@ -64,3 +64,8 @@ C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Apre
 C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\APIFilme - Aprendendo.pdb
 C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\APIFilme - Aprendendo.genruntimeconfig.cache
 C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\ref\APIFilme - Aprendendo.dll
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\staticwebassets\msbuild.APIFilme - Aprendendo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\staticwebassets\msbuild.build.APIFilme - Aprendendo.props
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIFilme - Aprendendo.props
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIFilme - Aprendendo.props
+C:\Users\fusion\Documents\GitHub\API-Filme\APIFilme - Aprendendo\APIFilme - Aprendendo\obj\Debug\net6.0\staticwebassets.pack.json
